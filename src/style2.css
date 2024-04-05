@@ -1,0 +1,8 @@
+footer{
+    border:2px dashed green;
+    height: 100px;
+}
+main{
+    height: 1000px;
+    border: 1px dashed yellow;
+}
